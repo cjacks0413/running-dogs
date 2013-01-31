@@ -1,0 +1,21 @@
+body {
+	margin:0;
+	padding: 0; 
+}
+
+#runningdogsgif {
+	background-image: url('/Users/cameronjackson/running-dogs/assets/omfgdogs.gif');
+	background-repeat: repeat; 
+	height: 610px; 
+	max-width: 100%; 
+}
+
+#originalLink {
+	font-size: x-large;
+	font-weight: bold; 
+	position: absolute;  
+	background-color:pink;
+	top: 88%;
+	left:82%; 
+}
+
